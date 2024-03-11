@@ -81,6 +81,8 @@ Registeration Number : 212221040045
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+
 ## MAINACTIVITY.JAVA:
 ```
 package com.example.gui_components;
