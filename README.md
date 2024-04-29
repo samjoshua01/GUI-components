@@ -32,7 +32,7 @@ Program to print the text “GUIcomponent”.
 Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
-```
+```  
 ## ACTIVITY_MAIN.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -80,9 +80,7 @@ Registeration Number : 212221040045
         app:layout_constraintVertical_bias="0.757" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-```
-
-
+```  
 ## MAINACTIVITY.JAVA:
 ```
 package com.example.gui_components;
@@ -133,17 +131,13 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-```
-
+```  
 ## OUTPUT
-![Screenshot (205)](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/a59e6bea-a84f-4cbd-a4a1-bf5e74abfada)
-![Screenshot (206)](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/a361028c-5b50-4ecd-8915-d889b9d4979f)
-![Output1](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/da23fff0-41fc-4aa6-9352-42ece5a9353d)
-![Output2](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/1a57577e-8955-4bd7-8bf5-5c6e76f101bd)
-![Output3](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/324e9704-ec62-48e6-aa99-bddbd6eff0df)
-
-
-
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/a59e6bea-a84f-4cbd-a4a1-bf5e74abfada.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/a361028c-5b50-4ecd-8915-d889b9d4979f.png" width="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/da23fff0-41fc-4aa6-9352-42ece5a9353d.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/1a57577e-8955-4bd7-8bf5-5c6e76f101bd.png" height="600">
+<img src="https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/324e9704-ec62-48e6-aa99-bddbd6eff0df.png" height="600">
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
