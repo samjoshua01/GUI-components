@@ -25,8 +25,8 @@ Step 7: Save and run the application.
 PROGRAM:
 /*
 Program to print the text “GUIcomponent”.
-Developed by: Sam Joshua ML
-Registeration Number : 212221040142
+Developed by: Don Bosco Blaise A
+Registeration Number : 212221040045
 */
 ACTIVITY_MAIN.XML:
 <?xml version="1.0" encoding="utf-8"?>
@@ -124,6 +124,12 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 OUTPUT
+![image](https://github.com/samjoshua01/GUI-components/assets/152732933/aa192c94-50f8-4d0b-ad1b-d0bca9188bd4)
+![image](https://github.com/samjoshua01/GUI-components/assets/152732933/a10842b9-1818-45ba-b8ef-a3c88239dec2)
+![image](https://github.com/samjoshua01/GUI-components/assets/152732933/f933be70-2ba7-44a4-a7b3-37ef8a178602) ![image](https://github.com/samjoshua01/GUI-components/assets/152732933/14e56897-2db4-44ad-b203-8d12c8a62087) ![image](https://github.com/samjoshua01/GUI-components/assets/152732933/6745619d-edf3-4bcf-a044-75e60b6081f8)
+
+
+
     
 RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
