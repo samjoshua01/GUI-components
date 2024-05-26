@@ -25,9 +25,10 @@ Step 7: Save and run the application.
 PROGRAM:
 /*
 Program to print the text “GUIcomponent”.
-Developed by: Don Bosco Blaise A
-Registeration Number : 212221040045
+Developed by: SAM JOSHUA ML
+Registeration Number :212221040142
 */
+```
 ACTIVITY_MAIN.XML:
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -123,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+```
 OUTPUT
 ![image](https://github.com/samjoshua01/GUI-components/assets/152732933/aa192c94-50f8-4d0b-ad1b-d0bca9188bd4)
 ![image](https://github.com/samjoshua01/GUI-components/assets/152732933/a10842b9-1818-45ba-b8ef-a3c88239dec2)
